@@ -1,0 +1,5 @@
+{
+  "palbox": "wood:8 stone:3 pal_crystal_s",
+  "seeds": "BerrySeeds:3 LettuceSeeds:3 TomatoSeeds:3 WheatSeeds:3",
+  "StarterKit": "Accessory_CoolResist_2:1 Accessory_HeatResist_2:1 Axe_Tier_01:1 Pickaxe_Tier_01:1 GrapplingGun_2:1 HandGun_Default:1 HandgunBullet:5000 CopperArmorHeat:1 CopperHelmet:1 Shield_02:1 Glider_Good:1 Bandage_Normal:10 Torch:1 Lantern:1 BakedMeat_SheepBall:10 PalSphere_Legend:100"
+}
